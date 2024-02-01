@@ -1,0 +1,11 @@
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.csproj.AssemblyReference.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.Form1.resources
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.Properties.Resources.resources
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.csproj.GenerateResource.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\bin\Debug\reto2.exe.config
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\bin\Debug\reto2.exe
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\bin\Debug\reto2.pdb
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.exe
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\reto2\reto2\obj\Debug\reto2.pdb

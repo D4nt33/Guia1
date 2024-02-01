@@ -1,0 +1,10 @@
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\bin\Debug\LoginBasico.exe.config
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\bin\Debug\LoginBasico.exe
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\bin\Debug\LoginBasico.pdb
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Form1.resources
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.Properties.Resources.resources
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.csproj.CoreCompileInputs.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.exe
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\LoginBasico\LoginBasico\obj\Debug\LoginBasico.pdb

@@ -1,0 +1,11 @@
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\bin\Debug\Ejemplo5.exe.config
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\bin\Debug\Ejemplo5.exe
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\bin\Debug\Ejemplo5.pdb
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csproj.AssemblyReference.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.Form1.resources
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.Properties.Resources.resources
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csproj.GenerateResource.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.exe
+C:\Users\Josué\Desktop\CS100420_ACTIVIDAD\Ejemplo5\Ejemplo5\obj\Debug\Ejemplo5.pdb

@@ -1,0 +1,10 @@
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\bin\Debug\EjemploDos.exe.config
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\bin\Debug\EjemploDos.exe
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\bin\Debug\EjemploDos.pdb
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.csproj.AssemblyReference.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.Form1.resources
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.Properties.Resources.resources
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.csproj.GenerateResource.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.csproj.CoreCompileInputs.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.exe
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploDos\EjemploDos\obj\Debug\EjemploDos.pdb

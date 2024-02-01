@@ -1,0 +1,11 @@
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\bin\Debug\EjemploUno.exe.config
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\bin\Debug\EjemploUno.exe
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\bin\Debug\EjemploUno.pdb
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.csproj.AssemblyReference.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.frmventana.resources
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.Properties.Resources.resources
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.csproj.GenerateResource.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.csproj.CoreCompileInputs.cache
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.exe
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.pdb
+C:\Users\UFG\Desktop\CS100420_ACTIVIDAD\EjemploUno\EjemploUno\obj\Debug\EjemploUno.ventana2.resources
